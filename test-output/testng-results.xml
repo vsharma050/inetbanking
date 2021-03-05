@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="25518" started-at="2021-03-03T07:44:53Z" finished-at="2021-03-03T07:45:18Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="25518" started-at="2021-03-03T07:44:53Z" finished-at="2021-03-03T07:45:18Z">
+      <class name="com.inetbanking.testcases.TC_EditCustomer_004">
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:com.inetbanking.testcases.TC_EditCustomer_004@293a5bf6]" name="setUp" is-config="true" duration-ms="11340" started-at="2021-03-03T07:44:53Z" finished-at="2021-03-03T07:45:04Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="editCustomer()[pri:0, instance:com.inetbanking.testcases.TC_EditCustomer_004@293a5bf6]" name="editCustomer" duration-ms="13957" started-at="2021-03-03T07:45:04Z" finished-at="2021-03-03T07:45:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- editCustomer -->
+      </class> <!-- com.inetbanking.testcases.TC_EditCustomer_004 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
