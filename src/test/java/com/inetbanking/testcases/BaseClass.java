@@ -59,7 +59,7 @@ public class BaseClass {
    //     String log4jConfPath = "log4j.properties";
    //    String log4jConfPath = System.getProperty("user.dir")+File.separator+"log4j.properties" ;
        
-     //  PropertyConfigurator.configure(log4jConfPath );
+   //   PropertyConfigurator.configure(log4jConfPath );
           logger.info("Base class started");
     }
     

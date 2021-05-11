@@ -44,7 +44,7 @@ public class Reporting extends TestListenerAdapter {
 		    
 		    htmlReporter.config().setDocumentTitle("InetBanking Test Project");  //Title of project
             htmlReporter.config().setReportName("Functional Test Report"); //name of the report
-            htmlReporter.config().setTestViewChartLocation(ChartLocation.TOP); // location of the chart
+             htmlReporter.config().setTestViewChartLocation(ChartLocation.TOP); // location of the chart
             htmlReporter.config().setTheme(Theme.DARK);
             
 		    		

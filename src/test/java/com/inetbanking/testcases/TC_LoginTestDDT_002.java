@@ -22,7 +22,7 @@ public class TC_LoginTestDDT_002 extends BaseClass {
 		logger.info("user name provided");
 		lp.setPassword(pwd);
 		logger.info("password provided");
-		lp.btnLogin();
+		lp.btnLogin(); 
 		
 		Thread.sleep(3000);
 		
