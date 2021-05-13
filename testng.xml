@@ -12,9 +12,9 @@
    <parameter name="browser" value="chrome"></parameter>
    
     <classes>
-   <!--     <class name="com.inetbanking.testcases.TC_LoginTest_001"/> -->
-   <!--    <class name="com.inetbanking.testcases.TC_LoginTestDDT_002"/>  --> 
-   <!--     <class name="com.inetbanking.testcases.TC_AddCutomer_Test_003"/> -->
+        <class name="com.inetbanking.testcases.TC_LoginTest_001"/> 
+       <class name="com.inetbanking.testcases.TC_LoginTestDDT_002"/>   
+      <class name="com.inetbanking.testcases.TC_AddCutomer_Test_003"/> 
        <class name="com.inetbanking.testcases.TC_EditCustomer_004"/>
        
        

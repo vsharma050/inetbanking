@@ -31,6 +31,9 @@ public class BaseClass {
     public static  WebDriver driver ;	
     public Logger logger = LogManager.getLogger(BaseClass.class) ;
     
+    
+    
+    
     @Parameters("browser")
     @BeforeClass
     public void setUp(String browser){
